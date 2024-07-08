@@ -61,10 +61,6 @@ const listaCampeonesDelMundo = {
 }
 
 for (Nacion in listaCampeonesDelMundo) {
-    console.log(Nacion);
-}
-
-for (Nacion in listaCampeonesDelMundo) {
     console.log(`${Nacion}: ${listaCampeonesDelMundo[Nacion]}`)
 }
 
