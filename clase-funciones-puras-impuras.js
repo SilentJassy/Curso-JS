@@ -1,3 +1,4 @@
+
 // Funciones puras
 
 // Side Effects
